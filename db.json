@@ -1,0 +1,34 @@
+{
+  "livros": [
+    {
+      "id": "1",
+      "titulo": "O Senhor dos Anéis",
+      "autor": "J. R. R. Tolkien",
+      "paginas": 1000
+    },
+    {
+      "id": "2",
+      "titulo": "Harry Potter",
+      "autor": "J. K. Rowling",
+      "paginas": 500
+    },
+    {
+      "id": "3",
+      "titulo": "As Crônicas de Gelo e Fogo",
+      "autor": "George R. R. Martin",
+      "paginas": 800
+    },
+    {
+      "titulo": "Dragon ball Z",
+      "autor": "Akyra Toryama",
+      "paginas": 800,
+      "id": "4"
+    },
+    {
+      "id": 5,
+      "titulo": "Dragon ball Super",
+      "autor": "Akyra Toryama",
+      "paginas": 400
+    }
+  ]
+}
